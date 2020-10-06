@@ -4,3 +4,5 @@ This is my second change in the readme file
 Change added in dazzling_feature branch
 
 testing stashing 
+
+change made as collaborator
